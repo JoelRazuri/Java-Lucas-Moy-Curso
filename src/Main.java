@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // Primera parte
         String nombre;
 
         String saludo = "Hola, mi nombre es ";
